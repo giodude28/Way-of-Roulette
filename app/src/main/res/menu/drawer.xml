@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+
+    <item
+        android:id="@+id/score"
+        android:enabled="true"
+        android:title="Inside Bets"
+        android:icon="@drawable/ic_iconfinder_open_into_internal_send_inside_3209430"
+        />
+    <item
+        android:id="@+id/rules"
+        android:enabled="true"
+        android:title="Outside Bets"
+        android:icon="@drawable/ic_iconfinder_open_external_outside_send_out_3209429"
+        />
+    <item
+        android:id="@+id/design"
+        android:enabled="true"
+        android:title="Bet Strategies"
+        android:icon="@drawable/ic_iconfinder_b_08_4229885"
+        />
+    <item
+        android:id="@+id/tips"
+        android:enabled="true"
+        android:title="Announced Bets"
+        android:icon="@drawable/ic_iconfinder_announcement_2199113"
+        />
+
+
+
+
+    <!--
+            <item
+                android:id="@+id/video"
+                android:enabled="true"
+                android:title="LIVE"
+                android:icon="@drawable/ic_baseline"
+                 />-->
+
+</menu>
+
+    <!--android:icon="@drawable/ic_action_recents"-->

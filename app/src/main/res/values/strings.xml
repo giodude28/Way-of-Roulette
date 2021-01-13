@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ways of Roulette</string>
+
+    <array name="menuOptions">
+        <item>Home</item>
+        <item>Inside Bets</item>
+        <item>Outside Bets</item>
+        <item>Bet Strategies</item>
+        <item>Announced Bets</item>
+    </array>
+</resources>
